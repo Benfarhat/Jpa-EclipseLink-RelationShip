@@ -1,0 +1,12 @@
+## Java
+# Compiled class file
+bin/
+target/
+*.class
+# Log file
+*.log
+# Derby
+relationsshipDb/
+*.dat
+# virtual machine crash logs
+hs_err_pid*
